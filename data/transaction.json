@@ -1,0 +1,91 @@
+[{
+    "id": "18643643935f16d4ca1ec1f6.37965124",
+    "idproduct": "001A",
+    "quantity": 100,
+    "supplier": "001",
+    "unit": "Pcs",
+    "storeroom": "Gudang 1",
+    "date": "21 Jul 2020, 18:42",
+    "info": "IN"
+}, {
+    "id": "18643643935f16d4ca1ec1f6.37965124",
+    "idproduct": "001B",
+    "quantity": 50,
+    "supplier": "001",
+    "unit": "Pcs",
+    "storeroom": "Gudang 1",
+    "date": "21 Jul 2020, 18:43",
+    "info": "IN"
+}, {
+    "id": "8402340585f16d56a97c483.85754735",
+    "idproduct": "001A",
+    "quantity": -10,
+    "supplier": "-",
+    "unit": "Pcs",
+    "storeroom": "Gudang 1",
+    "date": "21 Jul 2020, 18:45",
+    "info": "OUT"
+}, {
+    "id": "5430725925f16d7e6be0d53.02266381",
+    "idproduct": "001B",
+    "quantity": 600,
+    "supplier": "002",
+    "unit": "Mililiter",
+    "storeroom": "Gudang 2",
+    "date": "21 Jul 2020, 18:56",
+    "info": "IN"
+}, {
+    "id": "5430725925f16d7e6be0d53.02266381",
+    "idproduct": "001A",
+    "quantity": -1,
+    "supplier": "-",
+    "unit": "Pcs",
+    "storeroom": "Gudang 1",
+    "date": "21 Jul 2020, 18:56",
+    "info": "OUT"
+}, {
+    "id": "12909722255f16df64399f05.25340974",
+    "idproduct": "001B",
+    "quantity": 1500,
+    "supplier": "002",
+    "unit": "Mililiter",
+    "storeroom": "Gudang 2",
+    "date": "21 Jul 2020, 19:28",
+    "info": "IN"
+}, {
+    "id": "12909722255f16df64399f05.25340974",
+    "idproduct": "001B",
+    "quantity": 100,
+    "supplier": "001",
+    "unit": "Pcs",
+    "storeroom": "Gudang 1",
+    "date": "21 Jul 2020, 19:28",
+    "info": "IN"
+}, {
+    "id": "823849515f17d860ea3c17.12475011",
+    "idproduct": "001B",
+    "quantity": 230,
+    "supplier": "002",
+    "unit": "Pcs",
+    "storeroom": "Gudang 2",
+    "date": "22 Jul 2020, 13:10",
+    "info": "IN"
+}, {
+    "id": "823849515f17d860ea3c17.12475011",
+    "idproduct": "001A",
+    "quantity": -10,
+    "supplier": "-",
+    "unit": "Pcs",
+    "storeroom": "Gudang 1",
+    "date": "22 Jul 2020, 13:10",
+    "info": "OUT"
+}, {
+    "id": "4729094365f184f6b45ed58.85947875",
+    "idproduct": "001B",
+    "quantity": -400,
+    "supplier": "-",
+    "unit": "Mililiter",
+    "storeroom": "Gudang 2",
+    "date": "22 Jul 2020, 21:38",
+    "info": "OUT"
+}]

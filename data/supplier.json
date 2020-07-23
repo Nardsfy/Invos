@@ -1,0 +1,13 @@
+[{
+    "id": "001",
+    "name": "Benny",
+    "address": "Jl. Kemiri Raya No. 2",
+    "email": "benny@gmail.com",
+    "contact": "081200302102"
+}, {
+    "id": "002",
+    "name": "Dinda",
+    "address": "Blotongan, Salatiga",
+    "email": "dinda@gmail.com",
+    "contact": "081230212200"
+}]

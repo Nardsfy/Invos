@@ -1,0 +1,19 @@
+[{
+    "id": "001",
+    "unit": "Kg"
+}, {
+    "id": "002",
+    "unit": "Gram"
+}, {
+    "id": "003",
+    "unit": "Liter"
+}, {
+    "id": "004",
+    "unit": "Pcs"
+}, {
+    "id": "005",
+    "unit": "Mililiter"
+}, {
+    "id": "006",
+    "unit": "Box"
+}]
