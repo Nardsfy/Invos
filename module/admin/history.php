@@ -4,6 +4,21 @@
     </div>
 
     <div class="panel panel-primary">
+    <form method="POST" action="../controller/report.php">
+            <div class="row mb-1">
+                <div class="col-md-2">
+                    <select class="custom-select" name="report" id="report">
+                        <option value="Product ID">Product ID</option>
+                        <option value="Storeroom">Storeroom</option>
+                        <option value="Unit">Unit</option>
+                        <option value="Date">Date</option>
+                    </select>
+                </div>
+                <div class="col-md-6">
+                    <button class="btn btn-primary">Download report</button>
+                </div>
+            </div>
+        </form>
         <div class="panel-heading">
             <h3 class="panel-title">History</h3>
             <div class="pull-right">

@@ -15,7 +15,7 @@
                     </select>
                 </div>
                 <div class="col-md-6">
-                    <button class="btn btn-primary">Print report</button>
+                    <button class="btn btn-primary">Download report</button>
                 </div>
             </div>
         </form>
