@@ -88,4 +88,22 @@
     "storeroom": "Gudang 2",
     "date": "22 Jul 2020, 21:38",
     "info": "OUT"
+}, {
+    "id": "8725105125f1a273a110204.38303163",
+    "idproduct": "001A",
+    "quantity": 1,
+    "supplier": "001",
+    "unit": "Liter",
+    "storeroom": "Gudang 1",
+    "date": "24 Jul 2020, 07:11",
+    "info": "IN"
+}, {
+    "id": "8725105125f1a273a110204.38303163",
+    "idproduct": "001A",
+    "quantity": 500,
+    "supplier": "002",
+    "unit": "Liter",
+    "storeroom": "Gudang 2",
+    "date": "24 Jul 2020, 07:11",
+    "info": "IN"
 }]

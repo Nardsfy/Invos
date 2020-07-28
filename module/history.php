@@ -4,13 +4,30 @@
     </div>
 
     <div class="panel panel-primary">
-        <div class="panel-heading">
+        <form method="POST" action="../controller/report.php">
+            <div class="row mb-1">
+                <div class="col-md-2">
+                    <select class="custom-select" name="report" id="report">
+                        <option value="Product ID">Product ID</option>
+                        <option value="Storeroom">Storeroom</option>
+                        <option value="Unit">Unit</option>
+                        <option value="Date">Date</option>
+                    </select>
+                </div>
+                <div class="col-md-6">
+                    <button class="btn btn-primary">Print report</button>
+                </div>
+            </div>
+        </form>
+
+        <div class="panel-heading mb-2">
             <h3 class="panel-title">History</h3>
-            <div class="pull-right">
+            <div class="pull-right filter-btn">
                 <span class="clickable filter" data-toggle="tooltip" title="Toggle table filter" data-container="body">
                     <i class="fa fa-search fa-lg"></i>
                 </span>
             </div>
+
         </div>
         <div class="panel-body">
             <input type="text" class="form-control search-table" id="dev-table-filter" data-action="filter" data-filters="#dev-table" placeholder="Search transaction.." />
